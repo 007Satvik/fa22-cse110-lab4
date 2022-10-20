@@ -30,5 +30,5 @@
     E. false ->true is 1 and not equal to 2.    
     F. true. -> True and Boolean(2)nare same value and same type.     
 15. == checks if the value of the two variables is the same or not. (It does not matter what variable type they are) === returns true only when both    variables are same value and same type.   
-16. 
+16. Code in another .js file.  
 17. 
