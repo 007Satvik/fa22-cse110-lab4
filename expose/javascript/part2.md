@@ -32,4 +32,5 @@
 15. == checks if the value of the two variables is the same or not. (It does not matter what variable type they are) === returns true only when both    variables are same value and same type.   
 16. Code in another .js file.  
 17. [2, 4, 6]. The callback in our example is doSomoething which essentially returns the double of the input parameter. And we push this double to our new array which is returned my the modifiedArray function.   
-18. 
+18. Code in another .js file.  
+19. 1 -> 4 -> 3 -> 2
