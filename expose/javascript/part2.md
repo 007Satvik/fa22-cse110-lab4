@@ -28,6 +28,7 @@
     C. true  -> '2' is converted to 2 and they are same value
     D. false -> 2 and '2' are different variable types
     E. false ->true is 1 and not equal to 2
-    F. true. -> True and Boolean(2)nare same value and same type
-16. == checks if the value of the two variables is the same or not. (It does not matter what variable type they are) === returns true only when both    variables are same value and same type.
+    F. true. -> True and Boolean(2)nare same value and same type.  
+16. == checks if the value of the two variables is the same or not. (It does not matter what variable type they are) === returns true only when both    variables are same value and same type.   
 17. 
+18. 
