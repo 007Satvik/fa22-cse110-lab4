@@ -4,7 +4,7 @@
 4. [50, 100, 150] The function returns a array of discounted prices
 5. Error. i has the scope of the for loop. We try to access it outside the scope. This returns us an error
 6. Error. discountedPrice has scope of the for loop. We try to acces it outside the scope. Therefore error
-7. 150. finalPrice ahs the scope of the function. We call it within the function
+7. 150. finalPrice has the scope of the function. We call it within the function
 8. [50, 100, 150] The function has no errors. All variables are used within thier respective scopes. 
 9. Error. i has scope of the for loop. We try to access it outside that loop
 10. 3 -> No error because we never tried to change the value of a constant and used it within its scope
@@ -31,4 +31,5 @@
     F. true. -> True and Boolean(2)nare same value and same type.     
 15. == checks if the value of the two variables is the same or not. (It does not matter what variable type they are) === returns true only when both    variables are same value and same type.   
 16. Code in another .js file.  
-17. 
+17. [2, 4, 6]. The callback in our example is doSomoething which essentially returns the double of the input parameter. And we push this double to our new array which is returned my the modifiedArray function.   
+18. 
